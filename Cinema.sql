@@ -70,6 +70,18 @@ CREATE TABLE SearchHistory (
 );
 
 
+INSERT INTO Movie (title, release_date, director, cast, synopsis, rating, critic_reviews) VALUES
+('Inception', '2010-07-16', 'Christopher Nolan', 'Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page', 'A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.', 8.8, 'Critics praised the innovative concept and visual effects.'),
+('The Dark Knight', '2008-07-18', 'Christopher Nolan', 'Christian Bale, Heath Ledger, Aaron Eckhart', 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.', 9.0, 'Heath Ledger\'s performance as the Joker received widespread acclaim.'),
+('Interstellar', '2014-11-07', 'Christopher Nolan', 'Matthew McConaughey, Anne Hathaway, Jessica Chastain', 'A team of explorers travel through a wormhole in space in an attempt to ensure humanity\'s survival.', 8.6, 'Critics praised the ambitious scope and emotional depth of the film.'),
+('The Shawshank Redemption', '1994-09-23', 'Frank Darabont', 'Tim Robbins, Morgan Freeman, Bob Gunton', 'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.', 9.3, 'Regarded as one of the greatest films of all time.'),
+('Pulp Fiction', '1994-10-14', 'Quentin Tarantino', 'John Travolta, Uma Thurman, Samuel L. Jackson', 'The lives of two mob hitmen, a boxer, a gangster\'s wife, and a pair of diner bandits intertwine in four tales of violence and redemption.', 8.9, 'Praised for its nonlinear narrative and iconic dialogue.'),
+-- Add more movies following the same format as needed
+('The Godfather', '1972-03-24', 'Francis Ford Coppola', 'Marlon Brando, Al Pacino, James Caan', 'The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.', 9.2, 'Often cited as one of the greatest films in world cinema.');
+
+    -- Ilang movies ba? at masyadong mahaba cguro kung may synopsis? 
+
+
  
 
 
