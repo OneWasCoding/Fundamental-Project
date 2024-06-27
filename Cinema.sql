@@ -157,30 +157,36 @@ INSERT INTO MovieGenre (movie_id, genre_id) VALUES
 
 
 INSERT INTO Customer (name, email, phone) VALUES
-('John Doe', 'johndoe@example.com', '+1234567890'),
-('Alice Smith', 'alice.smith@example.com', '+1987654321'),
-('Bob Johnson', 'bob.johnson@example.com', '+1765432987'),
-('Emily Brown', 'emily.brown@example.com', '+1654321890'),
-('Michael Wilson', 'michael.wilson@example.com', '+1876543210'),
-('Sophia Lee', 'sophia.lee@example.com', '+1987654321'),
-('William Taylor', 'william.taylor@example.com', '+1876543210'),
-('Olivia Martinez', 'olivia.martinez@example.com', '+1654321890'),
-('James Garcia', 'james.garcia@example.com', '+1234567890'),
-('Emma Robinson', 'emma.robinson@example.com', '+1987654321' ),
-('Daniel Hernandez', 'daniel.hernandez@example.com', '+1765432987'),
-('Ava Lopez', 'ava.lopez@example.com', '+1654321890'),
-('Alexander Hill', 'alexander.hill@example.com', '+1234567890'),
-('Mia Scott', 'mia.scott@example.com', '+1876543210'),
-('David Green', 'david.green@example.com', '+1654321890'),
-('Ella Adams', 'ella.adams@example.com', '+1987654321'),
-('Matthew Baker', 'matthew.baker@example.com', '+1234567890'),
-('Sofia Hall', 'sofia.hall@example.com', '+1765432987'),
-('Benjamin Young', 'benjamin.young@example.com', '+1987654321'),
-('Chloe King', 'chloe.king@example.com', '+1654321890'),
-('Jackson Wright', 'jackson.wright@example.com', '+1234567890'),
-('Grace Clark', 'grace.clark@example.com', '+1876543210'),
-('Lucas Adams', 'lucas.adams@example.com', '+1765432987'),
-('Lily Turner', 'lily.turner@example.com', '+1654321890');
+('Joe Mama', 'joe.mamaorg32@gmail.com', '+1234567890'),
+('Alice Smith', 'alice.smith@yahoo.com', '+1987654321'),
+('Bob Johnson', 'bob.johnson@gmail.com', '+1765432987'),
+('Emily Brown', 'emily.brown@gmail.com', '+1654321890'),
+('Michael Wilson', 'michael.wilson@gmail.com', '+1876543210'),
+('Sophia Lee', 'sophia.lee@gmail.com', '+1987654321'),
+('William Taylor', 'william.taylor@gmail.com', '+1876543210'),
+('Olivia Martinez', 'olivia.martinez@gmail.com', '+1654321890'),
+('James Garcia', 'james.garcia@gmail.com', '+1234567890'),
+('Emma Robinson', 'emma.robinson@yahoo.com', '+1987654321' ),
+('Daniel Hernandez', 'daniel.hernandez@yahoo.com', '+1765432987'),
+('Ava Lopez', 'ava.lopez@yahoo.com', '+1654321890'),
+('Alexander Hill', 'alexander.hill@yahoo.com', '+1234567890'),
+('Mia Scott', 'mia.scott@yahoo.com', '+1876543210'),
+('David Green', 'david.green@yahoo.com', '+1654321890'),
+('Ella Adams', 'ella.adams@yahoo.com', '+1987654321'),
+('Matthew Baker', 'matthew.baker@yahoo.com', '+1234567890'),
+('Sofia Hall', 'sofia.hall@yahoo.com', '+1765432987'),
+('Benjamin Young', 'benjamin.young@yahoo.com', '+1987654321'),
+('Chloe King', 'chloe.king@gmail.com', '+1654321890'),
+('Jackson Wright', 'jackson.wright@gmail.com', '+1234567890'),
+('Grace Clark', 'grace.clark@gmail.com', '+1876543210'),
+('Lucas Adams', 'lucas.adams@gmail.com', '+1765432987'),
+('Lily Turner', 'lily.turner@gmail.com', '+1654321890')
+('Mark Anthony', 'Antonio.543ant@gmail.com, +6138534943')
+('Lester Brown', 'Da.BrownT0wn2020.gmail.com, +54695340')
+('Adolphus Hilter, Reich2024mein@yahoo.com', '+6942055795')
+('Joy Bitterbottom', 'Inside4and0ut2014@gmail.com', '+658543702') 
+('Aliya Von Smitch', 'Wild.Young.Von35@yahoo.com', '+6584574323')    
+('Anya Forger', 'Peanut.Psyker2019gmail.com', '+1249596504');
 
 
 INSERT INTO Screening (movie_id, screening_time) VALUES
